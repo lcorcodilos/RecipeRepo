@@ -1,1 +1,67 @@
 remote_theme: wowthemesnet/mediumish-theme-jekyll
+
+# Theme specific
+adsense: "disabled"
+# Site
+name: "Lucas' Recipe Repo"
+title: "Lucas' Recipe Repo"
+description: "Recipes for all of my food pictures"
+# logo: 'assets/images/logo.png'
+# favicon: 'assets/images/logo.png'
+baseurl: /home #mediumish-theme-jekyll
+# google_analytics: 'UA-46278016-1'
+# disqus: 'demowebsite'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  slucasal:
+    name: Lucas Corcodilos
+    display_name: Lucas Corcodilos
+    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: corcodilos.lucas@gmail.com
+    web: https://lucascorcodilos.com/
+    twitter: https://twitter.com/LucasCorcodilos
+    description: "Author and maintaner."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+# adsense-data-ad-client: "ca-pub-3412143450191416"
+# adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
