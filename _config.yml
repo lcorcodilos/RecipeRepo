@@ -16,11 +16,19 @@ authors:
   lucas:
     name: Lucas Corcodilos
     display_name: Lucas Corcodilos
-    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: assets/images/Lucas_Corcodilos_small.jpg
     email: corcodilos.lucas@gmail.com
     web: https://lucascorcodilos.com/
     twitter: https://twitter.com/LucasCorcodilos
-    description: "Author and maintaner."
+    description: "Author and maintaner"
+  sam:
+    name: Samantha Kose
+    display_name: Samantha Kose
+    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: samkose49@gmail.com
+    # web: https://lucascorcodilos.com/
+    twitter: https://twitter.com/SamanthaKose
+    description: "Author"
 
 # Plugins
 plugins:
