@@ -1,0 +1,13 @@
+<div class="container-fluid" style="padding: 0em;">
+    <div class="row">
+        <div class="col-sm">
+            <figure class="image">
+                <img src="{{site.baseurl}}/{{ include.url }}" alt="{{ include.description }}">
+                <figcaption style="text-align: center">{{ include.description }}</figcaption>
+            </figure>
+        </div>
+        <div class="col" style="align-self: center;">
+            <p>{{include.content | markdownify}}</p>
+        </div>
+    </div>
+</div>
