@@ -1,9 +1,9 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
 <div class="col-md-6 mb-30px">
-    <div class="listfeaturedtag h-100">
+    <div class="listfeaturedtag h-100 hover-box">
         <div class="row h-100">
-            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
+            <div class="col-12 col-md-12 col-lg-5 pr-lg-0" style="flex: 0 0 auto;">
                 <div class="h-100">
                     <div class="wrapthumbnail">
                         <a href="{{ site.baseurl }}{{ post.url }}">
@@ -29,7 +29,7 @@
                                 {% endif %}
                             </h2>
 
-                            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
+                            <h4 class="card-text">{{ post.description | strip_html | truncatewords:25 }}</h4>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">

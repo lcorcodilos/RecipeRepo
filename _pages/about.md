@@ -66,6 +66,6 @@ the benefits of salt being one of the first things to hit your tongue. Who is ri
 
 And this is the fun part. This is where *I* get to decide. And on the question of salting eggs, I like half before cooking
 for even distribution and and half as "garnish" that hits your tongue immediately. This repository has all of my other opinions
-on similar topics - just baked into the recipes instead in diatribes like this one. 
+on similar topics - just baked into the recipes instead of in diatribes like this one. 
 
 [^1]: To be clear, I just made this up but in the early days, I wouldn't put myself past trying this if the pictures online looked decent.
