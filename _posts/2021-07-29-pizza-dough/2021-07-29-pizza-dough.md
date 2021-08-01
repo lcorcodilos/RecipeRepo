@@ -51,19 +51,22 @@ one set of instructions with just an inline note on what to do with the sugar an
     - If you have a stand mixer, you can put the dry mixture into that bowl, turn it on with the dough hook, and pour the liquid mixture in slowly until it comes together.
     - If you don't have a stand mixer, make hole in the middle of the dry mixture, pour the liquid into the middle, and slowly bring in the walls of flour until combined (this is all just to keep it from being a mess - nothing special about the dough development).
 
-    {% include image.html url='assets/images/pizza/dough_mixer.jpg' description='Dough just after combination of ingredients.' %}
+{% include image.html url='assets/images/pizza/dough_mixer.jpg' description='Dough just after combination of ingredients.' %}
 
+{:start="2"}
 2. Just after it's combined, it should be a bit sticky but not super wet. Let the dough sit for 15 minutes in the covered bowl. After 15 minutes, split it into three to four pieces depending on your desired pie size (I weigh them but up to you).
     - If the dough is initially too wet, add some flour and knead it in.
     - If the dough is a bit dry, just leave it as is (dont add water).
 
-    {% include image.html url='assets/images/pizza/many_doughs.jpg' description='Separated doughs. To show the difference in texture and shape, the top two rows are unkneaded and the bottom row is kneaded.' %}
+{% include image.html url='assets/images/pizza/many_doughs.jpg' description='Separated doughs. To show the difference in texture and shape, the top two rows are unkneaded and the bottom row is kneaded.' %}
 
+{:start="3"}
 3. Put a little flour on a wooden cutting board and knead the three doughs one at a time. You only want enough flour to keep them from being sticky but they should feel a bit tacky. Depending on how the 15 minute rise goes, they will probably be pretty soft and stretchy. As you knead them, they will become tougher and have a "ripped" texture. Again, they will stay tacky and that's fine.
     - The idea is that you are constantly forming and breaking the gluten strands which creates a more complex (and strong) molecular structure that can hold onto air better. Thus it's easy to under-knead but hard to over-knead. You can look up the "window pane test" if you want another indicator for when you're done.
 
-    {% include image.html url='assets/images/pizza/kneading.gif' description='Kneading technique if you *knead* one.' %}
+{% include image.html url='assets/images/pizza/kneading.gif' description='Kneading technique if you *knead* one.' %}
 
+{:start="4"}
 4. After you've kneaded each dough (1-3 min per dough roughly), pick what you'd like to use as the "top side" and roll the edges of the dough under the top side until you can pinch them together at the bottom. You can pinch and twist the bottom to get it to stay together if the dough is tacky enough.
     - If you're using a home oven and have already used olive oil, lightly oil the exteriors of the balls with olive oil and put them each in their own containers to rise (deli container, bowl with plastic wrap, w/e).
     - If you're using a pizza oven and have **not** used olive oil, put the balls into their own containers with no other additions.
@@ -73,6 +76,6 @@ one set of instructions with just an inline note on what to do with the sugar an
 
 6. Once you're ready to cook, lightly flour a wooden cutting board, put the dough ball on it and roll/toss it so it gets a light but even coating of flour. At this point, you don't want the dough to be even tacky (will make getting it to the cooking surface harder) but you don't want a bunch of caked on flour either. Once it's sufficiently coated (you can always add more later), put the dough ball in the center of the surface and push into the center with your fingers and slowly start working the material in the middle of the dough outwards until it starts to form a disk. Once it's about 6-8 inches in diameter, pick it up by pinching the edge and let gravity pull it down while your hands work around the edge pulling slightly and then rotating the disk. This is the hardest part to describe so best to just look up a couple of good videos. I'd absolutely avoid using a rolling pin (which will push all of the air out).
 
-    {% include img_table.html left='assets/images/pizza/dough_small.jpg' right='assets/images/pizza/dough_large.jpg' left-desc='Initial disk shape.' right-desc='Final stretched dough.' %}
+{% include img_table.html left='assets/images/pizza/dough_small.jpg' right='assets/images/pizza/dough_large.jpg' left-desc='Initial disk shape.' right-desc='Final stretched dough.' %}
 
 And that's all for the dough! I may add a video on it at some point since I think it would be useful to see the kneading and formation steps. Next up is sauce...
