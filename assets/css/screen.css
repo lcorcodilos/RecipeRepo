@@ -181,6 +181,7 @@ section.recent-posts {
     height: 40px;
     margin-right: 13px;
     border-radius: 100%;
+    object-fit: cover;
 }
 
 .post-top-meta {
@@ -899,4 +900,33 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+.scroll-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+
+#scroll-wrapper-id::-webkit-scrollbar {
+    width: 8px;
+    background-color: #0cb84e;
+}
+
+
+#scroll-wrapper-id::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgb(250, 14, 14);
+  }
+
+  #scroll-wrapper-id::-webkit-scrollbar-thumb {
+    background-color: lightblue;
+    outline: 1px solid slategrey;
+}
+
+.hover-box {
+    transition: box-shadow .3s;
+}
+
+.hover-box:hover {
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.527); 
 }
