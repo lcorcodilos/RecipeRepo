@@ -5,7 +5,7 @@ author: lucas
 categories: [originals, series]
 image: assets/images/pizza/pizza-sauce.jpg
 description: "Sauce from the tomato and (almost) nothing more."
-featured: True
+featured: False
 ---
 
 *If you haven't yet, check out the previous pizza posts -*
