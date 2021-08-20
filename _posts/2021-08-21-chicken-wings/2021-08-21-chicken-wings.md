@@ -10,7 +10,7 @@ featured: True
 
 *Credit for this recipe goes to Chef John at Foooood Wishes dot com. I've made some slight modifications*
 *which I will mark below but you can find the original*
-*recipe [here](https://www.allrecipes.com/recipe/241001/crispy-honey-sriracha-chicken-wings/) and*
+*recipe [here](https://foodwishes.blogspot.com/2015/01/crispy-honey-sriracha-chicken-wings.html) and*
 *the accompanying video [here](https://www.youtube.com/watch?v=BDVg0u2YQ7Q).*
 
 I was debating titling this "Chicken Wings <u>in the Oven</u>" until I realized
@@ -21,6 +21,15 @@ are much cheaper!
 
 I repeat the recipe from Chef John below with some slight modifications. I also separate out
 the wing preparation from the sauce since I forgo the honey sriracha for classic Buffalo sauce.
+
+Before that, I want to point out the important food chemistry that makes this recipe so good
+the *Maillard Reaction* which is encouraged by the baking powder (or really, it's the baking soda in the baking powder).
+This addition is lowering the pH of the outside of the wing and encouraging the same reaction that
+happens when you sear a steak or bake cookies (with baking powder/soda) - 
+browning and crisping that tests really good. Without this addition, the wings would be soggy like most
+of the oven-based ones you find at restaurants.
+
+You can read more Maillard reaction in [this Serious Eats post](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science)).
 
 ## Chicken wings
 - 2.5 lbs of chicken wings
