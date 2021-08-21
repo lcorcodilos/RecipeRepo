@@ -5,7 +5,7 @@ author: lucas
 categories: [originals, series]
 image: /assets/images/pizza/pizza-dough.jpg
 description: "A primer on making a basic, flavorful pizza dough."
-featured: True
+featured: False
 ---
 
 *If you haven't yet, check out the pizza [introduction]({{ site.baseurl }}{% post_url 2021-07-28-pizza-intro %}).*
