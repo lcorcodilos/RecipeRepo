@@ -51,6 +51,7 @@ parchment paper-lined baking sheet(s).
 
 {% include image.html url='assets/images/wings/wings-tossed.jpg' description='Wings broken down and coated, ready for the oven.' %}
 
+{:start="4"}
 4. Bake in the pre-heated oven for three intervals of 20 minutes (60 minutes total). After each 20 minute block, turn the wings
 over.
     - On the first and second turns, they may look dry and powdery. That's okay - keep turning and baking.
