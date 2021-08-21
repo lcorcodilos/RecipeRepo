@@ -8,7 +8,7 @@ description: "A primer on making a basic, flavorful pizza dough."
 featured: True
 ---
 
-*If you haven't yet, check out the pizza [introduction]({% link _posts/2021-07-28-pizza-intro/2021-07-28-pizza-intro.md %}).*
+*If you haven't yet, check out the pizza [introduction]({{ site.baseurl }}{% post_url 2021-07-28-pizza-intro %}).*
 
 As I explained in the introduction, this recipe was developed for a while using a conventional oven but I now have a
 variation built for the temperatures of a dedicated pizza oven. So I'll split the recipe into two variations when applicable to

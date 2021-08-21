@@ -9,8 +9,8 @@ featured: False
 ---
 
 *If you haven't yet, check out the previous pizza posts -*
-*[Introduction]({% link _posts/2021-07-28-pizza-intro/2021-07-28-pizza-intro.md %}),*
-*[dough]({% link _posts/2021-07-29-pizza-dough/2021-07-29-pizza-dough.md %}).*
+*[Introduction]({{ site.baseurl }}{% post_url 2021-07-28-pizza-intro %}),*
+*[dough]({{ site.baseurl }}{% post_url 2021-07-29-pizza-dough %}).*
 
 ### Inspirations
 This sauce recipe is based on Bon Appetit's from their [*"Making Perfect" Pizza*](https://www.bonappetit.com/recipe/perfect-pizza). There's

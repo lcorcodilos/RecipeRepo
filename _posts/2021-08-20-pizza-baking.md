@@ -9,9 +9,9 @@ featured: True
 ---
 
 *If you haven't yet, check out the previous pizza posts -*
-*[Introduction]({% link _posts/2021-07-28-pizza-intro/2021-07-28-pizza-intro.md %}),*
-*[dough]({% link _posts/2021-07-29-pizza-dough/2021-07-29-pizza-dough.md %}),*
-*[sauce]({% link _posts/2021-07-30-pizza-sauce/2021-07-30-pizza-sauce.md %}).*
+*[Introduction]({% post_url 2021-07-28-pizza-intro %}),*
+*[dough]({{ site.baseurl }}{% post_url 2021-07-29-pizza-dough %}),*
+*[sauce]({{ site.baseurl }}{% post_url 2021-07-30-pizza-sauce %}).*
 
 The final steps along this pizza journey are the choice of toppings and the bake.
 Again, the choice oven matters here so I'll again partition the instructions
