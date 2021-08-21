@@ -5,7 +5,7 @@ author: lucas
 categories: [originals, series]
 image: /assets/images/pizza/pizza-intro.jpg
 description: "Great pizza has great beginnings."
-featured: True
+featured: False
 ---
 
 *If you're just interested in the recipes, here are some quick links before I*

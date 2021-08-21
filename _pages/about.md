@@ -14,22 +14,16 @@ before that year. Given that I had a job in a research group in the physics depa
 summer, I decided to spend most of my time in New Brunswick rather than commuting from home.
 
 Cooking for myself over the summer went well enough that I decided to forgo the university
-meal plan that year. On top of the meal plan being expensive, the apartment was also
-relatively far from any university dining facilities and there was a grocery one block
-away - Bravo Supermarket! By spring semester, one of my roommates followed my lead
-and by senior year, we were trading days cooking for one another.
-
-I actually think my cooking over that time period was... not great. There was nothing
+meal plan that year and the next. I actually think my cooking over that time period was... not great.
+There was nothing
 inedible but I wasn't exactly outperforming the dining hall in quality - especially
-when I was trying to replicate their dishes (Busch pasta line, anyone?) The dishes
-essentially met the basic requirements of a college student - they were cheap, easy
-to make, and didn't taste horrendous. Probably more important is that I enjoyed prepping
-food, trying new recipes, and improving over time. Even if I couldn't tell that my "ground breaking"
+when I was trying to replicate their dishes. Probably more important is that I enjoyed prepping
+food, trying new recipes, and improving over time. Even if I couldn't tell that my
 modifications were bad (cinnamon in tomato sauce was my worst offender), I could tell I had
-picked up a useful, lifelong hobby that had the immediate impact of saving money and filling my belly.
+picked up a useful, lifelong hobby.
 
-By the time I got to graduate school, I had left the realm of "recipes" and started
-the adventure into "food science." Initially this meant I was just seeking out more reputable sources for recipes -
+By the time I got to graduate school, I started
+learning about "food science." Initially this meant I was just seeking out more reputable sources for recipes -
 no more "Alice's three ingredient breaded chicken" made with chicken breast, corn flakes, and mayo
 (and don't forget to bring the chicken to 175 F, just for safety)[^1]. Serious Eats, NYT Cooking, 
 Mark Bittman's *How to Cook Everything*, *The Joy of Cooking*, Chef John (from *Foooood Wishes dot com*),
@@ -66,6 +60,8 @@ the benefits of salt being one of the first things to hit your tongue. Who is ri
 
 And this is the fun part. This is where *I* get to decide. And on the question of salting eggs, I like half before cooking
 for even distribution and and half as "garnish" that hits your tongue immediately. This repository has all of my other opinions
-on similar topics - just baked into the recipes instead of in diatribes like this one. 
+on similar topics - just baked into the recipes instead of in long writeups like this one. Its also the home to
+my recipes that I'm afraid I'll forget or that are just written on a stained piece of paper tucked in a book. I already
+use version control for my regular work, why not for recipes as well?
 
 [^1]: To be clear, I just made this up but in the early days, I wouldn't put myself past trying this if the pictures online looked decent.
