@@ -12,6 +12,11 @@ featured: True
 *that I'm willing to call it my own - though let's not confuse that with*
 *calling it "unique."*
 
+Every week or two in June, July, and August, there are 2-4 lbs of tomoatoes to pick and eat
+in the garden I started during the summer of 2020. This recipe was built as a way
+to use up the tomatoes without too much time or effort needed. It's quick enough that
+it could be made for lunch.
+
 {% capture ingredients %}
 ## Ingredients
 - Olive oil
