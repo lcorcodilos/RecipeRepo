@@ -111,14 +111,16 @@ section.recent-posts {
 }
 
 .listfeaturedtag .wrapthumbnail {
-    height: 290px;
+    height: 230px;
     flex: 0 0 auto;
-    height: 100%;
+    width: 100%;
+    overflow: hidden;
 }
 
 .maxthumb {
-    max-height: 300px;
+    height: 100%;
     overflow: hidden;
+    width: 100%;
 }
 
 .listfeaturedtag .card,
@@ -847,7 +849,8 @@ iframe {
 }
 
 .card .img-fluid {
-    width: 100%;
+    object-fit: cover;
+    height: 100%;
 }
 
 .sticky-top-80 {

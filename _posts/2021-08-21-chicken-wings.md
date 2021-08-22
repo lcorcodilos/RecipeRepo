@@ -29,7 +29,7 @@ happens when you sear a steak or bake cookies (with baking powder/soda) -
 browning and crisping that tests really good. Without this addition, the wings would be soggy like most
 of the oven-based ones you find at restaurants.
 
-You can read more Maillard reaction in [this Serious Eats post](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science)).
+You can read more Maillard reaction in [this Serious Eats post](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science).
 
 ## Chicken wings
 - 2.5 lbs of chicken wings

@@ -11,8 +11,8 @@ featured: False
 *If you're just interested in the recipes, here are some quick links before I*
 *launch into my journey with pizza.*
 
-- [Dough recipe]({% link _posts/2021-07-29-pizza-dough/2021-07-29-pizza-dough.md %})
-- [Sauce recipe]({% link _posts/2021-07-30-pizza-sauce/2021-07-30-pizza-sauce.md %})
+- [Dough recipe]({{ site.baseurl }}{% post_url 2021-07-29-pizza-dough %})
+- [Sauce recipe]({{ site.baseurl }}{% post_url 2021-07-30-pizza-sauce %})
 <!-- - [Baking steps]({ link _posts/2021-07-28-pizza-baking/2021-07-28-pizza-baking.md }) -->
 
 # No pizza for old men
