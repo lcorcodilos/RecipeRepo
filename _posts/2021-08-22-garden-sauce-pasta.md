@@ -38,6 +38,7 @@ the myths behind cooking pasta. TL;DR You can heat your pasta and water at the s
 I prefer this recipe with boxed penne or rigatoni so I'm in the clear.
 
 {% capture step1 %}
+{:starts="2"}
 2. Place a cast iron skillet or dutch oven on medium to high heat. While heating, wash and dry the tomatoes
 and pick the stems, peel and thinly slice the garlic cloves, and [chiffonade](https://www.google.com/search?channel=fs&client=ubuntu&q=chiffonade) the basil.
 {% endcapture %}
