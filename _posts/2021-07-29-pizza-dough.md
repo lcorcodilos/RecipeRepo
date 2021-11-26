@@ -13,9 +13,9 @@ featured: False
 As I explained in the introduction, this recipe was developed for a while using a conventional oven but I now have a
 variation built for the temperatures of a dedicated pizza oven. So I'll split the recipe into two variations when applicable to
 cover the capabilities of conventional home ovens (max temp. of ~550 F) and dedicated pizza ovens (max temp. ~900 F).
-This is one such time. The only difference between these variations is the inclusion of the sugar and olive oil.
+The only difference in ingredients between these variations is the inclusion of the sugar and olive oil.
 Both of these encourage browning and crisping of the crust in a home oven but will cause your pizza to
-burn before your toppings cook at 700 F and higher. The inclusion of these two ingredients brings us closer to
+burn at 700 F and higher. The inclusion of these two ingredients brings us closer to
 "NY style" while dropping them is closer to "Neapolitan style" - though pundits of either would nitpick this.
 
 Since the ingredients for the pizza oven are a subset of the ingredients for the home oven, I'll present
@@ -54,15 +54,15 @@ one set of instructions with just an inline note on what to do with the sugar an
 {% include image.html url='assets/images/pizza/dough_mixer.jpg' description='Dough just after combination of ingredients.' %}
 
 {:start="2"}
-2. Just after it's combined, it should be a bit sticky but not super wet. Let the dough sit for 15 minutes in the covered bowl. After 15 minutes, split it into three to four pieces depending on your desired pie size (I weigh them but up to you).
+2. Just after it's combined, it should be a bit sticky but not super wet. Let the dough sit for 15 minutes in the covered bowl. After 15 minutes, split it in three to four pieces depending on your desired pie size (I weigh them but up to you).
     - If the dough is initially too wet, add some flour and knead it in.
-    - If the dough is a bit dry, just leave it as is (dont add water).
+    - If the dough is a bit dry, just leave it as is unless you're using a stand mixer - it can be hard to incorporate more water by hand after the initial mixing.
 
 {% include image.html url='assets/images/pizza/many_doughs.jpg' description='Separated doughs. To show the difference in texture and shape, the top two rows are unkneaded and the bottom row is kneaded.' %}
 
 {:start="3"}
 3. Put a little flour on a wooden cutting board and knead the three doughs one at a time. You only want enough flour to keep them from being sticky but they should feel a bit tacky. Depending on how the 15 minute rise goes, they will probably be pretty soft and stretchy. As you knead them, they will become tougher and have a "ripped" texture. Again, they will stay tacky and that's fine.
-    - The idea is that you are constantly forming and breaking the gluten strands which creates a more complex (and strong) molecular structure that can hold onto air better. Thus it's easy to under-knead but hard to over-knead. You can look up the "window pane test" if you want another indicator for when you're done.
+    - The idea is that you are constantly forming and breaking the gluten strands which creates a more complex (and strong) molecular structure that can hold onto air better. Thus it's easy to under-knead but hard to over-knead.
 
 {% include image.html url='assets/images/pizza/kneading.gif' description='Kneading technique if you *knead* one.' %}
 
@@ -72,9 +72,9 @@ one set of instructions with just an inline note on what to do with the sugar an
     - If you're using a pizza oven and have **not** used olive oil, put the balls into their own containers with no other additions.
 
 5. Let them rest in the refrigerator overnight for the best flavor development (trust me when I say it's a noticeable difference). If you're trying to move more quickly than that, let them rest at room tempurature for at least an hour. If they are going to sit out for more than 3 hours, just refrigerate them for the whole time.
-    - The dough can stay in the fridge for days - they may grow out of their containers in which case just push it down with your fingers to knock air out and cover it back up.
+    - The dough can stay in the fridge for up to a week (possible longer) - they may grow out of their containers in which case just push it down with your fingers to knock air out and cover it back up.
 
-6. Once you're ready to cook, lightly flour a wooden cutting board, put the dough ball on it and roll/toss it so it gets a light but even coating of flour. At this point, you don't want the dough to be even tacky (will make getting it to the cooking surface harder) but you don't want a bunch of caked on flour either. Once it's sufficiently coated (you can always add more later), put the dough ball in the center of the surface and push into the center with your fingers and slowly start working the material in the middle of the dough outwards until it starts to form a disk. Once it's about 6-8 inches in diameter, pick it up by pinching the edge and let gravity pull it down while your hands work around the edge pulling slightly and then rotating the disk. This is the hardest part to describe so best to just look up a couple of good videos. I'd absolutely avoid using a rolling pin (which will push all of the air out).
+6. Once you're ready to cook, lightly flour a wooden cutting board, put the dough ball on it and roll/toss it so it gets a light but even coating of flour. At this point, you don't want the dough to be even tacky (wthat ill make getting it to the cooking surface harder) but you don't want a bunch of caked on flour either. Once it's sufficiently coated (you can always add more later), put the dough ball in the center of the surface and push into the center with your fingers and slowly start working the material in the middle of the dough outwards until it starts to form a disk. Once it's about 6-8 inches in diameter, pick it up by pinching the edge and let gravity pull it down while your hands work around the edge pulling slightly and then rotating the disk. This is the hardest part to describe so best to just look up a couple of good videos. I'd absolutely avoid using a rolling pin (which will push all of the air out).
 
 {% include img_table.html left='assets/images/pizza/dough_small.jpg' right='assets/images/pizza/dough_large.jpg' left-desc='Initial disk shape.' right-desc='Final stretched dough.' %}
 

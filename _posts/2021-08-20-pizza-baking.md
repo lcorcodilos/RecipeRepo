@@ -49,14 +49,14 @@ If you can, get a block of whole milk, low-moisture mozzarella. The pre-shredded
 and these hurt the ability for the cheese to be stretchy like you want in a good pizza slice. The skim/2% cheese doesn't have enough
 fat to keep it from burning in the oven before the crust has cooked.
 
-You can use fresh mozz as another topping but keep in mind that it contributes more moisture (so higher chance of pizza soup)
+You can use fresh mozzarella as another topping but keep in mind that it contributes more moisture (so higher chance of pizza soup)
 and by itself, it can't act as a barrier to keep your sauce from evaporating away in the oven. Again, there's a big battle to
 keep moisture low but to also not lose too much of it. I find mixing half low-moisture and half fresh mozz is a nice balance.
 
 {% include image.html url='assets/images/pizza/prebake.jpg' description='Plain cheese pie to before entering the oven to give an idea how much cheese and sauce are appropriate.' %}
 
 ## Meats and robust veggies
-Finally, you should add anything that you want to recieve driect heat. This is often meats like peperroni that will crisp up nicely but
+Finally, you should add anything that you want to recieve direct heat. This is often meats like peperroni that will crisp up nicely but
 vegetables with high water content like peppers, mushrooms, and onions are also important to put on this final layer.
 They will roast (which is good for the flavor) but they will also lose their mositure to the hot and dry environment.
 If you instead put them under the cheese, the moisture would be trapped under the cheese blanket and you'd (again) have soup-y pizza.
@@ -97,9 +97,9 @@ With the crust evenly browned, remove from the oven and enjoy. If your oven has 
 
 Before we close out this series, I just want to show off the final product a bit below. The dedicated pizza oven
 is making an enormous difference here - an extra 300 to 400 degrees will do that. However, the importance of the tedious steps
-I've outlined becomes apparent. The control of the water content, the time taken to knead, resting the dough overnight, planning
+I've outlined becomes apparent: the control of the water content, the time taken to knead, resting the dough overnight, planning
 the ordering of toppings. These all help achieve a thin crust that is well cooked, crisp, and not soggy. Meanwhile,
-the end-crust has big air pockets and a soft chewy crust from the work we did on the gluten structure.
+the end-crust has big air pockets and is soft and chewy from the work we did on the gluten structure.
 These all hold true in the conventional oven version of this recipe as well - a testament to the fact that anyone
 can make good pizza.
 
